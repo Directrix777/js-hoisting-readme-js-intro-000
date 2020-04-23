@@ -15,7 +15,7 @@ function crazy() {
   }
   thisIsCrazy();
 
-  
+
 }
 
 function sayMyName() {
